@@ -31,11 +31,14 @@ namespace DBA_EF_DataBaseFirst
         public void Update(Student student)
         {
             Student updated = context.Students.SingleOrDefault(s => s.Id == student.Id);
-            updated.Name = student.Name;
-            updated.LastName = student.LastName;
-            updated.email = student.email;
-            updated.Age = student.Age;
-            context.SaveChanges();
+            if (updated != null)
+            {
+                updated.Name = student.Name;
+                updated.LastName = student.LastName;
+                updated.email = student.email;
+                updated.Age = student.Age;
+                context.SaveChanges();
+            }
         }
 
         public Student FindById(int id)

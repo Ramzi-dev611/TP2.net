@@ -73,12 +73,14 @@ namespace DBA_ADO_Connecte
                 // Reading data into student
                 SqlDataReader reader = cmd.ExecuteReader();
                 reader.Read();
-                student.Id = Int32.Parse(reader["Id"].ToString());
-                student.Age = Int32.Parse(reader["Age"].ToString());
-                student.Name = reader["Name"].ToString();
-                student.LastName = reader["LastName"].ToString();
-                student.Email = reader["Email"].ToString();
-
+                if (reader != null) 
+                { 
+                    student.Id = Int32.Parse(reader["Id"].ToString());
+                    student.Age = Int32.Parse(reader["Age"].ToString());
+                    student.Name = reader["Name"].ToString();
+                    student.LastName = reader["LastName"].ToString();
+                    student.Email = reader["Email"].ToString();
+                }
             }
             catch (Exception ex)
             {
