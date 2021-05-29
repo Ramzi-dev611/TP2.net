@@ -24,7 +24,7 @@ namespace DBA_EF_DataBaseFirst
 
             foreach(Student looper in students)
             {
-                Console.WriteLine(student.Name);
+                Console.WriteLine(looper.Name);
             }
 
             Student s1 = students.FirstOrDefault();
