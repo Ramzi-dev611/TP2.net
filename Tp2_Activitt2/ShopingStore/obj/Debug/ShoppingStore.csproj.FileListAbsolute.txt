@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\TP2.net\Tp2_Activitt2\ShopingStore\bin\Debug\ShopingStore.exe.config
+C:\Users\HP\Desktop\TP2.net\Tp2_Activitt2\ShopingStore\bin\Debug\ShopingStore.exe
+C:\Users\HP\Desktop\TP2.net\Tp2_Activitt2\ShopingStore\bin\Debug\ShopingStore.pdb
+C:\Users\HP\Desktop\TP2.net\Tp2_Activitt2\ShopingStore\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\TP2.net\Tp2_Activitt2\ShopingStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\TP2.net\Tp2_Activitt2\ShopingStore\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\TP2.net\Tp2_Activitt2\ShopingStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\TP2.net\Tp2_Activitt2\ShopingStore\obj\Debug\ShoppingStore.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\TP2.net\Tp2_Activitt2\ShopingStore\obj\Debug\ShoppingStore.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TP2.net\Tp2_Activitt2\ShopingStore\obj\Debug\ShoppingStore.csproj.CopyComplete
+C:\Users\HP\Desktop\TP2.net\Tp2_Activitt2\ShopingStore\obj\Debug\ShopingStore.exe
+C:\Users\HP\Desktop\TP2.net\Tp2_Activitt2\ShopingStore\obj\Debug\ShopingStore.pdb
+C:\Users\HP\Desktop\TP2.net\Tp2_Activitt2\ShopingStore\obj\Debug\ShopingStore.Migrations.database_creation.resources
+C:\Users\HP\Desktop\TP2.net\Tp2_Activitt2\ShopingStore\obj\Debug\ShoppingStore.csproj.GenerateResource.cache
