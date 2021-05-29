@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\bin\Debug\DBA_ADO_Connecte.exe.config
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\bin\Debug\DBA_ADO_Connecte.exe
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\bin\Debug\DBA_ADO_Connecte.pdb
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\bin\Debug\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\bin\Debug\System.Security.Permissions.dll
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\bin\Debug\System.Security.Permissions.xml
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\obj\Debug\DBA_ADO_Connecte.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\obj\Debug\DBA_ADO_Connecte.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\obj\Debug\DBA_ADO_Connecte.csproj.CopyComplete
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\obj\Debug\DBA_ADO_Connecte.exe
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Connecte\obj\Debug\DBA_ADO_Connecte.pdb
