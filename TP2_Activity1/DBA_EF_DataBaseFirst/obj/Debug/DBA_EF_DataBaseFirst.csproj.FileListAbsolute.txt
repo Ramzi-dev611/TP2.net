@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_DataBaseFirst\bin\Debug\DBA_EF_DataBaseFirst.exe.config
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_DataBaseFirst\bin\Debug\DBA_EF_DataBaseFirst.exe
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_DataBaseFirst\bin\Debug\DBA_EF_DataBaseFirst.pdb
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_DataBaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_DataBaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_DataBaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_DataBaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_DataBaseFirst\obj\Debug\DBA_EF_DataBaseFirst.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_DataBaseFirst\obj\Debug\DBA_EF_DataBaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_DataBaseFirst\obj\Debug\DBA_EF_DataBaseFirst.csproj.CopyComplete
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_DataBaseFirst\obj\Debug\DBA_EF_DataBaseFirst.exe
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_DataBaseFirst\obj\Debug\DBA_EF_DataBaseFirst.pdb
