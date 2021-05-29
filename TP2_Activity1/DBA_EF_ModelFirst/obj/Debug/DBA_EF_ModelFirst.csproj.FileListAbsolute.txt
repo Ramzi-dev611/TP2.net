@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_ModelFirst\bin\Debug\DBA_EF_ModelFirst.exe.config
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_ModelFirst\bin\Debug\DBA_EF_ModelFirst.exe
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_ModelFirst\bin\Debug\DBA_EF_ModelFirst.pdb
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_ModelFirst\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_ModelFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_ModelFirst\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_ModelFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_ModelFirst\obj\Debug\DBA_EF_ModelFirst.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_ModelFirst\obj\Debug\DBA_EF_ModelFirst.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_ModelFirst\obj\Debug\DBA_EF_ModelFirst.csproj.CopyComplete
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_ModelFirst\obj\Debug\DBA_EF_ModelFirst.exe
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_EF_ModelFirst\obj\Debug\DBA_EF_ModelFirst.pdb
