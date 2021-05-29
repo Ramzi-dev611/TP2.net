@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Deconnecte\bin\Debug\DBA_ADO_Deconnecte.exe.config
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Deconnecte\bin\Debug\DBA_ADO_Deconnecte.exe
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Deconnecte\bin\Debug\DBA_ADO_Deconnecte.pdb
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Deconnecte\obj\Debug\DBA_ADO_Deconnecte.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Deconnecte\obj\Debug\DBA_ADO_Deconnecte.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Deconnecte\obj\Debug\DBA_ADO_Deconnecte.exe
+C:\Users\HP\Desktop\TP2.net\TP2_Activity1\DBA_ADO_Deconnecte\obj\Debug\DBA_ADO_Deconnecte.pdb
